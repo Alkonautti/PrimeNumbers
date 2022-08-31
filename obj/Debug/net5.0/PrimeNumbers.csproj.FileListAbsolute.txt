@@ -1,0 +1,16 @@
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.exe
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.deps.json
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.runtimeconfig.json
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.runtimeconfig.dev.json
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.dll
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\ref\PrimeNumbers.dll
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.pdb
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.AssemblyInfo.cs
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.dll
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\ref\PrimeNumbers.dll
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.pdb
+E:\Visual Studio Projects\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.genruntimeconfig.cache
